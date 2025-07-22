@@ -60,7 +60,7 @@ The insights in this report are derived from a transactional dataset of Amazon p
 
 ---
 
-## Author  
-[Your Name]  
-[Link to your LinkedIn Profile]  
-[Link to your Portfolio or another project]
+## 🙋‍♂️ Author
+
+**Rohit Bomte**  
+[LinkedIn](https://www.linkedin.com/in/rohit-bomte)
